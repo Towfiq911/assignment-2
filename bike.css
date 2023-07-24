@@ -1,0 +1,94 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700;800&family=Work+Sans:ital,wght@0,400;0,600;0,700;0,800;1,700&display=swap');
+ 
+ *{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+ }
+
+ header{
+    padding: 50px 254px;
+ }
+
+ nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
+ nav img{
+    width: 86.041px;
+    height: 40px;
+    flex-shrink: 0;
+ }
+ 
+ nav >div{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+.nav title{
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+}
+
+
+ nav >ul{
+    display: flex;
+}
+
+ nav li{
+    list-style: none;
+    margin: 30px;
+    color: #3C354F;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+ nav li a{
+    text-decoration: none;
+    color: #070707;
+}
+
+/* banner style  */
+
+.banner{
+    max-width: 5332px;
+    padding: 0 auto;
+}
+
+
+/* banner section  */
+section >.banner{
+    width: 711px;
+    height: 446px;
+}
+
+
+
+/* main */se
+ section > .Funny{
+    color:#F948B2 ;
+ }
+
+
+ .facts-card-con {
+    display: flex;
+ }
+ .photo{
+    width: 318.5px;
+    height: 365.083px;
+    border-radius: 8px;
+    border: 10px solid #FFF;
+ }
+ .banner-head{
+    display: flex;
+ }
+ 
